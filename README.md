@@ -15,7 +15,5 @@ Install:
     
     
     
-    
-    
-    http://ubuntuhandbook.org/index.php/2019/04/nstall-rtl8723de-wifi-driver-ubuntu-19-04/
+http://ubuntuhandbook.org/index.php/2019/04/nstall-rtl8723de-wifi-driver-ubuntu-19-04/
  
